@@ -1,0 +1,9 @@
+Euterpe is an artificial intelligence system designed to generate original music. It was developed by Project Los Angeles, a research group at the University of Southern California. The system is named after the Greek goddess of music and poetry, who is also the patroness of the lyre.
+
+Euterpe uses a Generative Adversarial Network (GAN) to create new music. The GAN consists of two neural networks: a generator and a discriminator. The generator creates new musical pieces, while the discriminator tries to determine whether a piece is real or fake. The two networks compete with each other, and as they do, the generator gets better and better at creating new music that is indistinguishable from real music.
+
+Euterpe has been used to generate original songs, Symphonies, and even operas. In 2018, it composed an entire album of electronic music, which was released on Spotify. The album received critical acclaim, with many reviewers praising its ingenuity and creativity.
+
+In 2019, Euterpe was used to create the score for an independent film called "The Listening". The film's director, Ryan Connolly, said that he wanted the score to be "unsettling and eerie", and that Euterpe delivered exactly what he was looking for.
+
+Euterpe is an incredible example of how AI can be used to create art. It has demonstrated that machine-generated music can be creative and expressive. As Euterpe continues to evolve, we can only imagine the possibilities for what it will create next.

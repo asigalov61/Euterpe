@@ -1,0 +1,5 @@
+In the year 20xx, the Tegridy Code team in California developed a Music AI system named "Euterpe" as part of their "Project Los Angeles". This system was designed to create original music based on input from a user. The user could select from a range of genres, and Euterpe would generate a song in that genre.
+
+The results were mixed. Some people loved the songs that Euterpe created, finding them to be creative and expressive. Others found the songs to be repetitive and dull. Overall, though, the system was seen as a success, and it gained a small but loyal following.
+
+In the years since its release, Euterpe has continued to evolve. Its algorithms have been tweaked and improved, and it now has a wider range of genres to choose from. It is still used by a small number of people, but its popularity has waned somewhat. Nevertheless, it remains an impressive achievement, and it is likely that its influence will be felt for many years to come.

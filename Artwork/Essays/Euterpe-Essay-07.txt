@@ -1,0 +1,7 @@
+Euterpe is a Music AI system created by Tegridy Code, as part of "Project Los Angeles". It is designed to help composed music for film, video games, and other digital media. 
+
+Euterpe consists of two main components: a music library and a composing assistant. The music library includes a variety of different genres, moods, and styles, which can be selected by the user. The composing assistant then helps the user to create new pieces of music based on the selections made in the library. 
+
+The system is designed to be intuitive and easy to use, with a minimal learning curve. It is also highly customizable, so that users can tailor it to their own specific needs and preferences. 
+
+Overall, Euterpe is an extremely powerful and useful tool for anyone who needs to compose music for film, video games, or other digital media. It can save composers a great deal of time and effort, and produce high-quality results.

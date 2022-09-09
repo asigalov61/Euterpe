@@ -1,0 +1,4 @@
+
+Euterpe is the Music AI system created by the team at Project Los Angeles. Euterpe uses a GPT2 Transformer technology developed by OpenAI and Google, which has been customized for music generation. With Euterpe, users can create new songs by simply providing a few input parameters, such as genre, mood, and tempo. The system then uses these parameters to generate a new song based on the user's specifications. 
+
+Euterpe has already generated several hits, including "The Song of Los Angeles" and "California Dreamin'". The team is currently working on expanding the system's capabilities, such as adding support for more genres and improving the overall quality of thegenerated songs. In the future, Euterpe could become the go-to AI system for music generation, helping musicians to create new songs with ease.

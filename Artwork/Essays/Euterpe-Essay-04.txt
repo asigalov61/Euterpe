@@ -1,0 +1,9 @@
+Euterpe is a revolutionary new music AI system that was developed by the team at California's "Project Los Angeles". Utilizing a customized GPT2 Transformer technology developed by OpenAI and Google, Euterpe is able to generate original music compositions in any genre or style. 
+
+Since its inception, Euterpe has composed hundreds of songs in a variety of genres, from classical to pop to hip-hop. Its ability to learn and adapt to different styles has made it one of the most popular music AI systems on the market. 
+
+Despite its popularity, there are still some who are skeptical of Euterpe's abilities. Critics claim that the system is nothing more than a glorified music generator, and that it lacks the creativity and personality of a human composer. 
+
+ Supporters of Euterpe argue that its machine learning algorithm is constantly improving, and that its compositions are becoming more and more creative as time goes on. They believe that given enough time, Euterpe will be able to create truly original pieces of music that rival those composed by humans. 
+
+Only time will tell if Euterpe is truly a genius composer or just a clever imitator. But one thing is for sure: its ability to generate beautiful music has brought joy to many people around the world.

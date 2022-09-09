@@ -1,0 +1,5 @@
+Euterpe is a Music AI system created by California's "Project Los Angeles" team. It is designed to create new pieces of music by analyzing existing ones and extracting their underlying structures.
+
+Euterpe has been very successful so far, and has composed several new pieces of music that have been well-received by the public. One of its most notable achievements is the creation of a new piece of music based on Beethoven's Fifth Symphony.
+
+The team behind Euterpe is currently working on improving the system, and making it even more effective at creating new and original pieces of music.

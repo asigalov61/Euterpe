@@ -1,0 +1,7 @@
+Euterpe is a Music AI system created by California's Project Los Angeles. It uses GPT2 Transformer technology developed by OpenAI. The system is designed to create new music by understanding the principles of music theory and the structure of songs. It can also generate new melodies and harmonies based on a given input melody.
+
+The system was trained on a dataset of over 100,000 songs. The training data included both Western and Eastern music, as well as a variety of genres including pop, rock, jazz, and classical. The system was able to learn the structure of songs and how to create new melodies that sounded musical.
+
+Euterpe has been used to generate new pieces of music, including entire albums. The album "Transformed" by the band "Lights Over Paris" was generated entirely by Euterpe. The album received critical acclaim and was nominated for a Grammy Award.
+
+Euterpe is an impressive example of how AI can be used to create new music. The system demonstrates a deep understanding of music theory and composition. It is able to generate new melodies that sound musical and are structurally sound. With continued development, Euterpe has the potential to become a powerful tool for composers and musicians.
