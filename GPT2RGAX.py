@@ -134,11 +134,11 @@ epochs = 5
 rpr = False #'store_true'
 
 enable_rpr = True
-max_seq = 1280
-n_layers = 16
-num_heads = 16
-d_model = 1280
-dim_feedforward = 1280
+max_seq = 1024
+n_layers = 6
+num_heads = 8
+d_model = 512
+dim_feedforward = 512
 dropout_prob = 0.1
 
 ########################################################
@@ -167,10 +167,6 @@ def train(cur_epoch, model, dataloader, loss, opt, lr_scheduler=None, num_iters=
         for batch_num, batch in enumerate(dataloader):
             time_before = time.time()
 
-            torch.nn.utils.clip_grad_norm_(model.parameters(), 0.5)
-
-            opt.zero_grad()
-
             x   = batch[0].to(get_device())
             tgt = batch[1].to(get_device())
 
@@ -182,7 +178,9 @@ def train(cur_epoch, model, dataloader, loss, opt, lr_scheduler=None, num_iters=
             out = loss.forward(y, tgt)
 
             out.backward()
+            torch.nn.utils.clip_grad_norm_(model.parameters(), 0.5)
             opt.step()
+            opt.zero_grad()
 
             if(lr_scheduler is not None):
                 lr_scheduler.step()
