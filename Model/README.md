@@ -9,7 +9,7 @@
 
 ## DEMO Model Stats:
 
-### Multi-Instrumental MIDI model with six velocity degrees
+### 12 MIDI instruments with six velocity degrees
 ### Trained upon 12GB of multi-instrumental MIDI music for 1 epochs (66k steps/~64 hours) @ 32 batches on quad A6000 GPUs
 ### FLoss 0.8806 CE
 ### VFloss 0.8806 CE
