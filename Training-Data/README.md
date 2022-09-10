@@ -18,5 +18,29 @@
 
 ***
 
+## Some Stats:
+
+### Data pack contains 401082 multi-instrumental MIDI compositions
+### 21751.83676 hours/2.48 years of music
+
+### Note counts for each MIDI instrument:
+
+#### Piano: 452677323
+#### Guitar: 310478478
+#### Bass: 112695079
+#### Violin: 8883334
+#### Cello: 4756772
+#### Harp: 4744399
+#### Trumpet: 25948370
+#### Clarinet: 9104929
+#### Flute: 19021757
+#### Drums: 382002412
+#### Choir: 18069774
+#### Organ: 24207475
+
+### Total of 1372590102 MIDI notes
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2022
