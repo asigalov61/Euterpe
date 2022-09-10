@@ -6,7 +6,7 @@
 ### Please note that this is training data for the provided training code
 
 ```
-!wget --no-check-certificate -O 'GIGA-Piano-INTs.zip' "https://onedrive.live.com/download?cid=8A0D502FC99C608F&resid=8A0D502FC99C608F%2118665&authkey=AF0mW39Iqv0gR5o"
+!wget --no-check-certificate -O 'Euterpe-Training-Data.zip' "https://onedrive.live.com/download?cid=8A0D502FC99C608F&resid=8A0D502FC99C608F%2118665&authkey=AF0mW39Iqv0gR5o"
 ```
 
 ***
