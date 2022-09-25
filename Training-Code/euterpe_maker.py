@@ -441,14 +441,14 @@ model.to(device)
 #=====
 
 init_step = 0
-lr = LR_DEFAULT_START
+lr = 0.1 # Seems to work best
 lr_stepper = LrStepTracker(d_model, SCHEDULER_WARMUP_STEPS, init_step)
 eval_loss_func = nn.CrossEntropyLoss(ignore_index=DIC_SIZE)
 train_loss_func = eval_loss_func
 
 # opt = Adam(model.parameters(), lr=lr, betas=(ADAM_BETA_1, ADAM_BETA_2), eps=ADAM_EPSILON)
 
-opt = Adam(model.parameters()) # Default optimizer settings work better on large datasets
+opt = Adam(model.parameters(), lr=lr) # Default optimizer settings work better on large datasets
 
 lr_scheduler = LambdaLR(opt, lr_stepper.step)
 
