@@ -11,9 +11,10 @@
 
 ### NOTE ON OTHER TRANSFORMERS/TRAINING CODE VERSIONS:
 
-### 1) FLASH and Perciever-AR show very good results
-### 2) Mega performs below average
-### 3) Linear and Sinkhorn perform average, but they are old and not SOTA/efficient anymore
+### 1) Perceiver-AR seems to work best with very good results and convergence on huge seq_len (64k)
+### 2) FLASH also shows very good results and convergence but with shorter seq_len
+### 3) Mega performs below average
+### 4) Linear and Sinkhorn perform average, but they are old and not SOTA/efficient anymore
 
 ***
 
