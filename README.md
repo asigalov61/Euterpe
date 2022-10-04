@@ -1,5 +1,5 @@
 # Euterpe
-## [SOTA] Multi-Instrumental Music Transformer trained on 12GB/400k MIDIs
+## Multi-Instrumental Music Transformer trained on 12GB/400k MIDIs
 
 ***
 
