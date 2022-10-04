@@ -9,5 +9,13 @@
 
 ***
 
+### NOTE ON OTHER TRANSFORMERS/TRAINING CODE VERSIONS:
+
+### 1) FLASH and Perciever-AR show very good results
+### 2) Mega performs below average
+### 3) Linear and Sinkhorn perform average, they are old and not SOTA anymore
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2022
