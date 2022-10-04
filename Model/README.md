@@ -3,7 +3,6 @@
 ***
 
 ### Here is a SMALL/DEMO Euterpe Pre-Trained Model for evaluation and testing
-### LARGE/FULL model is NOT going to be published and it is only avaialable for licensing/commercial use
 
 ***
 
@@ -20,6 +19,8 @@
 ## Model Sequence Info:
 
 ### [(MIDI Channel(0-11) * 11)+Velocity(1-6), dTime(0-127)+128, Duration(1-127)+256, MIDI Pitch(1-127)+384]
+
+### Compositions separator/Intro sequence: [0, 127+128, 127+256, 0+384]
 
 ***
 
