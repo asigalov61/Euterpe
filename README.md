@@ -3,6 +3,10 @@
 
 ***
 
+# DEPRECEATED in favor of [Perceiver](https://github.com/asigalov61/Perceiver-Music-Transformer)
+
+***
+
 ![Euterpe-00003](https://user-images.githubusercontent.com/56325539/189458488-7dd13c5e-6041-4583-88c6-67a74afe1b93.png)
 
 ***
